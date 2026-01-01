@@ -23,10 +23,3 @@ class CustomException(Exception):
         return self.error_message
 
 
-
-if __name__ == "__main__":
-    try:
-        a = 1 / 0
-    except Exception as e:
-        logging.error("Division by zero error", exc_info=True)
-        raise CustomException(e, sys)
