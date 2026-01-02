@@ -1,0 +1,6 @@
+[2026-01-02 19:44:30,058] 25 root INFO - Enter the data ingestion methord or component
+[2026-01-02 19:44:30,061] 29 root INFO - Read the dataset as dataframe
+[2026-01-02 19:44:30,064] 35 root INFO - Trian test split initiated
+[2026-01-02 19:44:30,068] 43 root INFO - Ingestion of data is completed
+[2026-01-02 19:44:30,117] 75 root INFO - read tarin and test data complete 
+[2026-01-02 19:44:30,118] 78 root INFO - obtaun processing object

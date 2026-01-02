@@ -1,0 +1,10 @@
+[2026-01-02 19:53:51,234] 25 root INFO - Enter the data ingestion methord or component
+[2026-01-02 19:53:51,236] 29 root INFO - Read the dataset as dataframe
+[2026-01-02 19:53:51,239] 35 root INFO - Trian test split initiated
+[2026-01-02 19:53:51,242] 43 root INFO - Ingestion of data is completed
+[2026-01-02 19:53:51,277] 75 root INFO - read tarin and test data complete 
+[2026-01-02 19:53:51,277] 78 root INFO - obtaun processing object
+[2026-01-02 19:53:51,277] 48 root INFO - numarical columns scalling completed 
+[2026-01-02 19:53:51,277] 50 root INFO - categorical columns encoding completed 
+[2026-01-02 19:53:51,277] 94 root INFO - Applying preprocessing object on training dataframe and test dataframe
+[2026-01-02 19:53:51,288] 109 root INFO - save Process object
